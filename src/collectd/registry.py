@@ -10,3 +10,7 @@ def register_config(func):
 
 def register_read(func):
     pass
+
+
+def register_write(func):
+    pass
