@@ -3,4 +3,5 @@ from .registry import (
     register_config,
     register_init,
     register_read,
+    register_write,
 )
