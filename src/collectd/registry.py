@@ -14,3 +14,8 @@ def register_read(func):
 
 def register_write(func):
     pass
+
+
+def info(msg):
+    print(msg)
+
