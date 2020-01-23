@@ -22,7 +22,6 @@ class Data(object):
         self.host = host
         self.type = type
         self.type_instance = type_instance
-        self.dstypes = dstypes
         self.values = values
         self.interval = interval
         self.time = time
